@@ -1,5 +1,4 @@
-# 组件化开发之路由设计 - ModuleRouter-master
-
+# ModuleRouter —— 组件化开发之路由设计
 ------
 
 
